@@ -1,0 +1,12 @@
+- Place a FASTA Format File in this directory then run ViruChord.py
+
+- The FASTA File should either use a standard captialised alphabet for nucleotide code. (AGTCGTCGT) Or a purine pyrmidine alphabet (RYYYRYYRY)
+
+- In this version of Viru Chord, sequence lengths of up to 10 nucleotides are supported. This will be expanded in future releases. If additional sonic material is provided the program will intelligently take advantage of this and increase the supported sequence length. 
+
+- For date scaled generation to work:
+ 	
+	The title of each sequence MUST be a date in the following format: YYYY/MM/DD 
+	
+	And the FASTA file MUST BE CORRECTLY ORDERED BY DATE! Do this in MEGA or something first. 
+
